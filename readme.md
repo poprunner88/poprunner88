@@ -51,6 +51,12 @@
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50"></a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=poprunner88&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true&hide_border=true" alt="poprunner88" /></p>
+<h2>Stats</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=poprunner88&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true" alt="poprunner88" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=poprunner88&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true&hide_border=true" alt="Most Used Languages" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=poprunner88&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=poprunner88&locale=en&theme=radical&hide_border=true" alt="Streak Stats" /></p>
+
+<div><img width="100%" src="https://github-profile-trophy.vercel.app/?username=poprunner88&locale=en&row=1&theme=radical&no-frame=true" alt="Trophy" /></div>

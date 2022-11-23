@@ -2,6 +2,8 @@
 
 <p>I'm James, a full-time full-stack freelance developer 👨&zwj;💻 working remotely since 2022 🚀</p>
 
+<p>Full Stack Developer with 10+ years of experience in blending the art of design with skill of programming to maintain and optimize for performance of website.</p>
+
 <p><img src="https://komarev.com/ghpvc/?username=poprunner88&label=Profile%20views&color=0e75b6&style=flat" alt="poprunner88" /> </p>
 
 <h2>Languages</h2>

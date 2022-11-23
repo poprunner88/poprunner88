@@ -7,7 +7,6 @@
 <p><img src="https://komarev.com/ghpvc/?username=poprunner88&label=Profile%20views&color=0e75b6&style=flat" alt="poprunner88" /> </p>
 
 <h2>Languages</h2>
-
 <p>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
@@ -52,11 +51,7 @@
 </p>
 
 <h2>Stats</h2>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=poprunner88&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true&hide_border=true" alt="Most Used Languages" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=poprunner88&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=poprunner88&locale=en&theme=radical&hide_border=true" alt="Streak Stats" /></p>
-
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=poprunner88&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true&hide_border=true" alt="Most Used Languages" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=poprunner88&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" /></div>
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=poprunner88&locale=en&theme=radical&hide_border=true" alt="Streak Stats" /></div>
 <div><img width="100%" src="https://github-profile-trophy.vercel.app/?username=poprunner88&locale=en&row=1&theme=radical&no-frame=true" alt="Trophy" /></div>

@@ -57,4 +57,4 @@ Full Stack Developer with 10+ years of experience in blending the art of design 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=poprunner88&locale=en&row=1&theme=darkhub&no-frame=true)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=poprunner88&locale=en&theme=react-dark&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=poprunner88&locale=en&theme=react-dark&radius=6&&hide_border=true)

@@ -4,7 +4,7 @@ I'm James, a full-time full-stack freelance developer 👨&zwj;💻 working remo
 
 Full Stack Developer with 10+ years of experience in blending the art of design with skill of programming to maintain and optimize for performance of website.
 
-<img src="https://komarev.com/ghpvc/?username=poprunner88&label=views&color=blue&style=flat" alt="poprunner88" />
+![Views](https://komarev.com/ghpvc/?username=poprunner88&label=views&color=blue&style=flat)
 
 ## Languages
 

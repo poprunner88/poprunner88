@@ -6,6 +6,8 @@ Full Stack Developer with 10+ years of experience in blending the art of design 
 
 ![Views](https://komarev.com/ghpvc/?username=poprunner88&label=views&color=blue&style=flat)
 
+![Generic badge](https://img.shields.io/badge/email-pop.runner88@gmail.com-blue.svg)
+
 ## Languages
 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>

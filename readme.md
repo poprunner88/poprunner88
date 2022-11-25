@@ -1,8 +1,12 @@
 # 👋 Hello, I'm @poprunner88
 
-I'm James, a full-time full-stack freelance developer 👨&zwj;💻 working remotely since 2022 🚀
+I'm James, a Full-Time Full-Stack Freelance Developer 👨&zwj;💻 working remotely since 2022 🚀
 
-Full Stack Developer with 10+ years of experience in blending the art of design with skill of programming to maintain and optimize for performance of website.
+## About me
+I was very interested in Web Application during my university period and the Science in Library and Information Management made me as a Full Stack Developer. Web Application Development is not only my job, but also my life.
+
+I can work full time, 8+ hours a day, 6 days a week.
+I hope to work with you in a long time.
 
 ![Views](https://komarev.com/ghpvc/?username=poprunner88&label=Views&color=blue&style=flat)
 

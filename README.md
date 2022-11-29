@@ -23,7 +23,7 @@ I hope to work with you in a long time.
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
 
 
-## Frameworks
+## Frameworks & Libraries
 
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
